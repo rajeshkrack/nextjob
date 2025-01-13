@@ -12,7 +12,19 @@ This is a simple job board backend built using Node.js and MySQL.
 
 # Lets see How backend is working
 
-# Adding new job to Job Board !! 
+# Retrieve all job postings   !! 
+![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
+
+# add new job postings   !! 
+![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
+
+# Retrieve a single posting by ID. !!
+![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
+
+# Update a posting by ID
+![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
+
+# Delete a posting by ID.
 ![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
 
 
