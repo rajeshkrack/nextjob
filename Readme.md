@@ -1,12 +1,15 @@
-This is an Assifnment project for backend developer role at NextJob.ai
 
 
-How to create project ?
+# Job Board Project
 
-npm init -y
+This is a simple job board backend built using Node.js and MySQL.
 
-npm i express, mysql2, dotenv
+![Job Board](https://example.com/job-board.png)
+
+## Features
+- Create, Read, Update, Delete job postings
+- MySQL database for storage
+- Docker support (optional)
 
 
-run project with npm start
 
