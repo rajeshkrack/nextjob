@@ -16,16 +16,16 @@ This is a simple job board backend built using Node.js and MySQL.
 ![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
 
 # add new job postings   !! 
-![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
+![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202845.png)
 
 # Retrieve a single posting by ID. !!
-![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
+![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20203244.png)
 
 # Update a posting by ID
-![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
+![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20203418.png)
 
 # Delete a posting by ID.
-![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20202043.png)
+![Job Board](https://github.com/rajeshkrack/nextjob/blob/main/public/Screenshot%202025-01-13%20203556.png)
 
 
 
